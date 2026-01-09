@@ -1,0 +1,25 @@
+project_id = "uwioavplepezwbhituqr"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.generate-code]
+verify_jwt = false
+
+[functions.generate-quiz]
+verify_jwt = false
+
+[functions.learning-recommendations]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.adaptive-learning]
+verify_jwt = false
+
+[functions.aiva-chat]
+verify_jwt = false
+
+[functions.nptel-suggestion]
+verify_jwt = false
